@@ -1,0 +1,1 @@
+function e(e,t,n){let r=new ArrayBuffer(e.byteLength);new Uint8Array(r).set(e);let i=new Blob([r],{type:n}),a=URL.createObjectURL(i),o=document.createElement(`a`);o.href=a,o.download=t,o.click(),URL.revokeObjectURL(a)}function t(t,n,r){e(new TextEncoder().encode(t),n,r)}export{t as n,e as t};
