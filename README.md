@@ -4,7 +4,7 @@
 
 Static phone-first Cooling Tower & Boiler Desk demo. Every company, site, tower, person, and reading is fictional. Nothing sends. Public contact: **info@mainstreetdesks.com**.
 
-Built from `clawbotcole/cooling-boiler-desk` draft PR #28 (`rulebook/2026-10-29`, commit `abe7188`) for GitHub Pages at base path `/cooling-desk-demo/`. No application source. No source maps. No secrets.
+Built from `clawbotcole/cooling-boiler-desk` draft PR #28 (`rulebook/2026-10-29`, commit `bbcb4aa`) for GitHub Pages at base path `/cooling-desk-demo/`. No application source. No source maps. No secrets.
 
 ## Live
 
